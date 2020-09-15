@@ -1,0 +1,20 @@
+This is the main headline of the article
+
+This is a second level heading
+
+Here comes the first paragraph of text that describes what this article will be about. Its second sentence is so important it gets marked additionally.
+
+"Then comes a longer quotation from long ago that makes you think."
+
+In the second paragraph there is nothing interesting. But after the second paragraph there is an image of a tree.
+
+<!-- source of the image: https://i.imgur.com/tpxtzby.jpg -->
+
+Another second level heading
+
+Here comes a nested list to prove the author's point:
+
+with items
+under each other
+and second level items
+also
